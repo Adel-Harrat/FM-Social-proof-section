@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/Adel-Harrat/FM-Social-proof-section)
+- Live Site URL: [Demo](https://fm-social-proof-section-iota.vercel.app/)
 
 ## My process
 
